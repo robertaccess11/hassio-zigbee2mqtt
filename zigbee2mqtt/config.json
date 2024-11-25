@@ -84,5 +84,5 @@
     },
     "watchdog": "str?"
   },
-  "image": "zigbee2mqtt/zigbee2mqtt-{arch}"
+  "image": "zigbee2mqtt/zigbee2mqtt:1.40.2"
 }
